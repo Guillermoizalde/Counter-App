@@ -3,9 +3,8 @@ import React from 'react';
 //import React, { Fragment } from 'react'; {
 
 
-const PrimeraApp = {} => {
+const PrimeraApp = ({saludo = "Hola Mundo"}) => {
 
-    const saludo = {"Hola Mundo";
 
     }
 
