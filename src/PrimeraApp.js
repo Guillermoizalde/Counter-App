@@ -1,18 +1,23 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 //import React, { Fragment } from 'react'; {
 
 
 const PrimeraApp = {} => {
 
+    const saludo = {"Hola Mundo";
+
+    }
+
 return {
     <>
-    
-    <h1>Hola Mundo</h1>
+
+    <h1>saludo</h1>
+    //{/* <pre> { JSON.Stringify{ saludo, null, 3 </pre> }} */}
+    </pre>}
     <p>Mi primera aplicación</p>
     </>
 
     };
-}
+
 
